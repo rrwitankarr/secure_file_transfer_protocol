@@ -1,0 +1,128 @@
+[2025-11-05 17:16:04] Server started on 0.0.0.0:9009
+[2025-11-05 17:16:36] Connection established with ('10.86.54.163', 59157)
+[2025-11-05 17:16:38] Received client public key.
+[2025-11-05 17:16:39] Client authentication successful.
+[2025-11-05 17:16:39] Sent server identity proof to client.
+[2025-11-05 17:16:40] AES session key received and decrypted.
+[2025-11-05 17:16:41] Received file 'client.pdf' from ('10.86.54.163', 59157) successfully.
+[2025-11-05 17:16:41] Sent reply file 'server_reply.pdf' to ('10.86.54.163', 59157).
+[2025-11-05 17:30:54] Server started on 0.0.0.0:9009
+[2025-11-05 17:32:06] Connection established with ('10.86.54.163', 51662)
+[2025-11-05 17:32:06] Received client public key.
+[2025-11-05 17:32:06] Client authentication successful.
+[2025-11-05 17:32:06] Sent server identity proof to client.
+[2025-11-05 17:32:34] Server started on 0.0.0.0:9009
+[2025-11-05 17:32:48] Connection established with ('10.86.54.163', 65170)
+[2025-11-05 17:32:48] Received client public key.
+[2025-11-05 17:32:49] Client authentication successful.
+[2025-11-05 17:32:49] Sent server identity proof to client.
+[2025-11-05 17:32:50] AES session key received and decrypted.
+[2025-11-05 17:33:08] Received file 'valley.jpg' from ('10.86.54.163', 65170) successfully.
+[2025-11-05 17:33:08] Integrity verified for valley.jpg. Hash: 7480b9f6cdf82cdcf38b9032866bab85b45d1c82ea052a01d5031b8fcfe17749
+[2025-11-05 17:33:08] Sent reply file 'server_reply.pdf' to ('10.86.54.163', 65170).
+[2025-11-05 17:43:15] Server started on 0.0.0.0:9009
+[2025-11-05 17:43:29] Connection established with ('10.86.54.163', 62514)
+[2025-11-05 17:43:29] Client authentication successful.
+[2025-11-05 17:43:29] AES session key received and decrypted.
+[2025-11-05 17:43:32] Received file 'valley.jpg' successfully.
+[2025-11-05 17:43:32] Integrity verified for valley.jpg.
+[2025-11-05 17:43:32] Sent reply file 'server_reply.pdf' to client.
+[2025-11-05 17:53:28] Server started on 0.0.0.0:9009
+[2025-11-05 17:54:32] Connection established with ('10.86.54.163', 54550)
+[2025-11-05 17:54:32] Received client public key.
+[2025-11-05 17:54:32] Client authentication successful.
+[2025-11-05 17:54:35] Received + decompressed file 'valley.jpg'.
+[2025-11-05 17:54:35] Digital signature verified for 'valley.jpg'.
+[2025-11-05 17:54:35] Integrity OK for 'valley.jpg'.
+[2025-11-05 17:54:35] Sent reply file 'server_reply.pdf' (compressed).
+[2025-11-05 17:55:09] Server started on 0.0.0.0:9009
+[2025-11-05 17:55:11] Connection established with ('10.86.54.163', 54557)
+[2025-11-05 17:55:11] Received client public key.
+[2025-11-05 17:55:11] Client authentication successful.
+[2025-11-05 17:55:14] Received + decompressed file 'valley.jpg'.
+[2025-11-05 17:55:14] Digital signature verified for 'valley.jpg'.
+[2025-11-05 17:55:14] Integrity OK for 'valley.jpg'.
+[2025-11-05 17:55:14] No reply file found.
+[2025-11-05 17:58:51] Server started on 0.0.0.0:9009
+[2025-11-05 17:59:24] Connection established with ('10.86.54.163', 57108)
+[2025-11-05 17:59:24] Client authentication successful.
+[2025-11-05 17:59:24] AES session key received and decrypted.
+[2025-11-05 17:59:28] Received file 'valley.jpg' successfully.
+[2025-11-05 17:59:28] Integrity verified for valley.jpg.
+[2025-11-05 17:59:28] No reply file found.
+[2025-11-05 18:00:44] Server started on 0.0.0.0:9009
+[2025-11-05 18:00:46] Connection established with ('10.86.54.163', 64323)
+[2025-11-05 18:00:46] Client authentication successful.
+[2025-11-05 18:00:46] AES session key received and decrypted.
+[2025-11-05 18:00:49] Received file 'valley.jpg' successfully.
+[2025-11-05 18:00:49] Integrity verified for valley.jpg.
+[2025-11-05 18:00:49] Sent reply file 'server_reply.pdf' to client.
+[2025-11-05 18:01:53] Server started on 0.0.0.0:9009
+[2025-11-05 18:01:54] Connection established with ('10.86.54.163', 64330)
+[2025-11-05 18:01:54] Client authentication successful.
+[2025-11-05 18:01:54] AES session key received and decrypted.
+[2025-11-05 18:01:57] Received file 'valley.jpg' successfully.
+[2025-11-05 18:01:58] Integrity verified for valley.jpg.
+[2025-11-05 18:01:58] Sent reply file 'server_reply.pdf' to client.
+[2025-11-06 09:22:05] Server started on 0.0.0.0:9009
+[2025-11-06 09:23:23] Connection established with ('10.86.54.221', 57505)
+[2025-11-06 09:26:18] Server started on 0.0.0.0:9009
+[2025-11-06 09:26:20] Connection established with ('10.86.54.221', 57530)
+[2025-11-06 09:26:20] Client authentication successful.
+[2025-11-06 09:26:20] AES session key received and decrypted.
+[2025-11-06 09:26:20] Received file 'test.pdf' successfully.
+[2025-11-06 09:26:20] Integrity verified for test.pdf.
+[2025-11-06 09:26:20] Sent reply file 'server_reply.pdf' to client.
+[2025-11-13 09:20:42] Server started on 0.0.0.0:9009
+[2025-11-13 09:21:00] Connection established with ('10.86.54.163', 61394)
+[2025-11-13 09:21:00] Client authentication successful.
+[2025-11-13 09:21:00] AES session key received and decrypted.
+[2025-11-13 09:21:08] Received file 'valley.jpg' successfully.
+[2025-11-13 09:21:08] Integrity failed for valley.jpg.
+[2025-11-13 09:21:08] Sent reply file 'server_reply.pdf' to client.
+[2025-11-13 09:21:52] Server started on 0.0.0.0:9009
+[2025-11-13 09:21:58] Connection established with ('10.86.54.163', 54329)
+[2025-11-13 09:21:58] Client authentication successful.
+[2025-11-13 09:21:59] AES session key received and decrypted.
+[2025-11-13 09:22:07] Received file 'valley.jpg' successfully.
+[2025-11-13 09:22:08] Integrity failed for valley.jpg.
+[2025-11-13 09:22:08] Sent reply file 'server_reply.pdf' to client.
+[2025-11-13 09:24:20] Server started on 0.0.0.0:9009
+[2025-11-13 09:25:22] Connection established with ('10.86.54.163', 65481)
+[2025-11-13 09:25:22] Client authentication successful.
+[2025-11-13 09:25:22] AES session key received and decrypted.
+[2025-11-13 09:25:26] Received file 'valley.jpg' successfully.
+[2025-11-13 09:25:26] Integrity verified for valley.jpg.
+[2025-11-13 09:25:26] Sent reply file 'server_reply.pdf' to client.
+[2025-11-13 09:26:02] Server started on 0.0.0.0:9009
+[2025-11-13 09:26:04] Connection established with ('10.86.54.163', 49703)
+[2025-11-13 09:26:04] Client authentication successful.
+[2025-11-13 09:26:04] AES session key received and decrypted.
+[2025-11-13 09:26:15] Received file 'module-4-aws.pdf' successfully.
+[2025-11-13 09:26:16] Integrity verified for module-4-aws.pdf.
+[2025-11-13 09:26:16] Sent reply file 'server_reply.pdf' to client.
+[2025-11-13 09:28:45] Server started on 0.0.0.0:9009
+[2025-11-13 09:28:46] Connection established with ('10.86.54.163', 61359)
+[2025-11-13 09:28:47] Client authentication successful.
+[2025-11-13 09:28:47] AES session key received and decrypted.
+[2025-11-13 09:35:35] Server started on 0.0.0.0:9009
+[2025-11-13 09:35:40] Connection established with ('10.86.54.163', 55667)
+[2025-11-13 09:35:41] Client authentication successful.
+[2025-11-13 09:35:41] AES session key received and decrypted.
+[2025-11-13 09:35:44] Received file 'module-4-aws.pdf' successfully.
+[2025-11-13 09:35:44] Integrity verified for module-4-aws.pdf.
+[2025-11-13 09:35:44] Sent reply file 'server_reply.pdf' to client.
+[2025-11-13 09:48:27] Server started on 0.0.0.0:9009
+[2025-11-13 09:48:31] Connection established with ('10.86.54.163', 55559)
+[2025-11-13 09:48:31] Client authentication successful.
+[2025-11-13 09:48:31] AES session key received and decrypted.
+[2025-11-13 09:48:33] Received file 'module-4-aws.pdf' successfully.
+[2025-11-13 09:48:34] Integrity verified for module-4-aws.pdf.
+[2025-11-13 09:48:34] Sent reply file 'server_reply.pdf' to client.
+[2025-11-14 11:03:22] Server started on 0.0.0.0:9009
+[2025-11-14 11:04:28] Connection established with ('10.86.54.163', 60061)
+[2025-11-14 11:04:29] Client authentication successful.
+[2025-11-14 11:04:29] AES session key received and decrypted.
+[2025-11-14 11:04:31] Received file 'module-4-aws.pdf' successfully.
+[2025-11-14 11:04:31] Integrity verified for module-4-aws.pdf.
+[2025-11-14 11:04:31] Sent reply file 'server_reply.pdf' to client.
